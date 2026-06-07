@@ -1,0 +1,9 @@
+[package]
+name = "morphogenesis"
+version = "0.1.0"
+edition = "2021"
+description = "Turing pattern formation and reaction-diffusion systems for self-organizing structures"
+repository = "https://github.com/SuperInstance/morphogenesis"
+license = "MIT"
+
+[dependencies]
